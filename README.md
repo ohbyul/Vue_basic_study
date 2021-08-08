@@ -40,11 +40,17 @@ npm run serve
 ```
 - server 아님 serve
 
+
+### Vue Router 설치
 ```
 npm install vue-router --save
 
 라우터 -> 웹 페이지 를 이동하는 방법
 	그 부분만 화면을 갱신
+```
+
+### Vue 부트스트랩 설치
+```	
 npm install vue bootstrap bootstrap-vue
 ```
 - 부트스트랩 뷰 설치
