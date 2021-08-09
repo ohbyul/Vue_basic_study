@@ -54,9 +54,8 @@ npm install vue-router --save
 ```	
 npm install vue bootstrap bootstrap-vue
 ```
-- 부트스트랩 뷰 설치
+- main.js 에 아래 코드 넣어주면 부트스트랩 사용 가능
 ```
-main.js 에 아래 코드 넣어주면 부트스트랩 사용 가능
 import { BootstrapVue, IconsPlugin } from 'bootstrap-vue'
 Vue.use(BootstrapVue)
 Vue.use(IconsPlugin)
